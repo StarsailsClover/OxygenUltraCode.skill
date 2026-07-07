@@ -1,6 +1,6 @@
-# Ultra Code Reasoning Skill - Usage Guide
+# OxygenUltraCode Skill - Usage Guide
 ## Installation
-1. Copy the `ultra-code-reasoning` folder to your skills directory:
+1. Copy the `OxygenUltraCode` folder to your skills directory:
    ```
    ~/.super_doubao/super-doubao-runtime/workspace/skills/
    ```

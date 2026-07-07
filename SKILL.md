@@ -1,5 +1,5 @@
 ---
-name: ultra-code-reasoning
+name: OxygenUltraCode
 description: Advanced code reasoning and development framework that simulates Claude Code Ultra-level performance through structured thinking, agentic workflows, multi-perspective code review, GitHub integration, and systematic debugging. Use this skill for ALL software development tasks including architecture design, feature implementation, bug fixing, code review, refactoring, and complex algorithm problems. Triggers on: coding, programming, debugging, refactoring, code review, architecture, algorithm, GitHub, pull request, testing, optimization.
 ---
 # Ultra Code Reasoning Framework
